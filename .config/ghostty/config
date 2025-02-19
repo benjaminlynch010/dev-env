@@ -1,0 +1,9 @@
+theme = tokyonight
+font-family = Berkeley Mono
+font-style = Bold
+
+keybind = ctrl+u=scroll_page_fractional:-0.5
+keybind = ctrl+d=scroll_page_fractional:0.5
+
+gtk-titlebar = false
+shell-integration-features = no-cursor,no-sudo,no-title

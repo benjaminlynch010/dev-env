@@ -1,0 +1,2 @@
+xcode-select --install
+/bin/bash -c "$(curl -fsSL https://ddraw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
